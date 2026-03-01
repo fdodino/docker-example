@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/gvilarino/docker-testing#readme",
   "dependencies": {
-    "mongodb": "4.5.0"
+    "mongodb": "7.1.0"
   },
   "devDependencies": {
-    "nodemon": "2.0.15"
+    "nodemon": "3.1.14"
   }
 }

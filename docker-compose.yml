@@ -1,5 +1,3 @@
-version: "3.7"
-
 services:
   app:
     build: . # buildear la imagen al momento de lanzar
