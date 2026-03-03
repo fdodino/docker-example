@@ -8,6 +8,6 @@ RUN npm install
 
 EXPOSE 3000
 
-COPY [".", "/usr/src/"]
+COPY ["index.js", "/usr/src/"]
 
 CMD ["node", "index.js"]
